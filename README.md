@@ -6,6 +6,7 @@ This project implements a binomial tree for option pricing in C++.
 - Builds a binomial tree based on specified parameters.
 - Prices European options (call/put) using the binomial model.
 - Generates a visual representation of the tree in `.pdf` format using Graphviz.
+   This last feature  is not ready yet but feel free to access the vertexes of your tree with main file.
 
 ## Getting Started
 ### Prerequisites
@@ -16,5 +17,5 @@ This project implements a binomial tree for option pricing in C++.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BinomialTreeProject.git
-   cd BinomialTreeProject
+   git clone https://github.com/McKingN/Binomial-Pricing-Model.git
+   cd Binomial-Pricing-Model

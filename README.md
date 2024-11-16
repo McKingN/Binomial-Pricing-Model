@@ -1,4 +1,4 @@
-# Options-Pricing-With-Binomial-Tree-Pricing-Model
+# Stock Options Pricing With Binomial Tree Model in C++
 
 This project implements a binomial tree for option pricing in C++.
 

@@ -1,4 +1,4 @@
-# Binomial-Pricing-Model-Project
+# Options-Pricing-With-Binomial-Tree-Pricing-Model
 
 This project implements a binomial tree for option pricing in C++.
 
@@ -17,5 +17,5 @@ This project implements a binomial tree for option pricing in C++.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/McKingN/Binomial-Pricing-Model.git
+   git clone https://github.com/McKingN/Options-Pricing-With-Binomial-Tree-Pricing-Model.git
    cd Binomial-Pricing-Model
